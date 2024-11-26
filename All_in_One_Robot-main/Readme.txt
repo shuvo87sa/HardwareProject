@@ -1,0 +1,2 @@
+(Obstacle Avoiding + Line following +  Android Application Control)
+Here,we give the software link for phone, that need to install in phone and also have a software design model on ino file. Also have a diagram and code.
